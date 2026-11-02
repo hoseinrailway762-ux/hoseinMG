@@ -13,7 +13,8 @@
         android:layout_width="46dp"
         android:layout_height="46dp"
         android:layout_gravity="center"
-        android:background="@drawable/ic_rounded_corner_inactive">
+        android:background="@drawable/ic_rounded_corner_inactive"
+        android:backgroundTint="#0056b3">
 
         <ImageView
             android:id="@+id/image_switch"
